@@ -4,6 +4,6 @@ def fizzbuzz(x)
     fizz_3 = "Fizz"
   elsif x % 5 == 0
     fizz_5 = "Buzz"
-#  elsif 
+  elsif x 
   end
 end
