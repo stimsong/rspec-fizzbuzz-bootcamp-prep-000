@@ -1,9 +1,9 @@
 
 def fizzbuzz(x)
-  if x == x/3
+  if x % 3 == 0
     fizz_3 = "Fizz"
-#    elsif x == 5
-#      fizz_5 = "Buzz"
-#      elsif 
+  elsif x % 5 == 5
+    fizz_5 = "Buzz"
+  elsif 
   end
 end
